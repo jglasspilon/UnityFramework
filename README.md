@@ -171,7 +171,11 @@ The systems below demonstrate how these principles were applied across startup o
 Names and structures have been generalized to avoid disclosure of proprietary implementations.*
 
 ### Startup & Initialization Lifecycle
-![Startup Lifecycle](Media/StartupLifecycle.png)
+> Illustrates the deterministic initialization life cycle implemented for dependency injection allow configuration from both local and external sources depending on project need.
+> 
+> ![Startup Lifecycle](Media/StartupLifecycle.png)
 
 ### Interactive Content Management Pipeline
-![Content Management Pipeline](Media/ContentMangementPipeline.png)
+> Displays the modular system designed to control data-driven content while abstracting out any framework logic. All downstream elements are only responsible for their own behvaiour with no knowledge of higher level components, leading to more flexibility in integration and design, as well as a more maintainable code base through proper seperation of concern.
+> 
+> ![Content Management Pipeline](Media/ContentMangementPipeline.png)
