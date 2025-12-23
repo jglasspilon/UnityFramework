@@ -178,4 +178,4 @@ Names and structures have been generalized to avoid disclosure of proprietary im
 ![Startup Lifecycle](Media/StartupLifecycle.png)
 
 ### Interactive Content Management Pipeline
-![Content Management Pipeline](Media/ContentManagementPipeline.png)
+![Content Management Pipeline](Media/ContentMangementPipeline.png)
