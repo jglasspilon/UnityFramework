@@ -76,8 +76,6 @@ The systems below demonstrate how these principles were applied across startup o
   </blockquote>
 </details>
 
----
-
 <details>
   <summary><strong>"Interactive Content Management Pipeline"</strong><br>
   A modular, data-driven system for composing and switching interactive touchscreen content at runtime, providing design freedom through component-driven data binding and quick integration turnarround through abstracted out transition logic.</summary>
@@ -122,11 +120,9 @@ The systems below demonstrate how these principles were applied across startup o
   </blockquote>
 </details>
 
----
-
 <details>
   <summary><strong>"Event-Driven Interaction & Data Binding Layer"</strong><br>
-  A reactive data binding system that synchronizes live data, user input, and UI without tight coupling.</summary>
+  A reactive data binding system that synchronizes live data, user input, and UI while keeping everything component-driven for decoupled integration and quick iteration..</summary>
 
   <blockquote>
 
