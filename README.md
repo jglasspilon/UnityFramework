@@ -179,3 +179,17 @@ Names and structures have been generalized to avoid disclosure of proprietary im
 > Displays the modular system designed to control data-driven content. All downstream elements are responsible for their own behvaiour with no knowledge of higher level components, leading to more flexibility integration and design through plug and play components, as well as a more maintainable code base through proper seperation of concern.
 > 
 > ![Content Management Pipeline](Media/ContentMangementPipeline.png)
+
+---
+
+## Released Projects using the Unity Framework
+*All animated GIFs shown are from publicly released projects and are the property of their respective owners. I claim no ownership or rights; they are displayed solely to demonstrate my role and contributions as development lead.*
+### ABC US Elections Interactive Touchscreen (2024)
+> Elections Touchscreen Interactive used On-Air by ABC News for the 2024 US Elections. This is the most recent project leveraging this framework as of 2026 giving the client access to a large number of various map and grid related election graphics. All seamlessly controlled and orchestrated by this framework.
+> 
+> ![ABC US Elections Interactive Touchscreen](Media/ABCElectionsInteractiveTouchscreen.gif)
+
+### Yahoo Finance Interactive Touchscreen (2020 - present)
+> Finance Touchscreen Interactive used On-Air daily by Yahoo Finance since 2020. This was the framework's initial pilot project covering a range of finance related data-driven graphics. 
+> 
+> ![Yahoo Finance Interactive Touchscreen](Media/YahooFinanceTouchscreenInteractive.gif)
