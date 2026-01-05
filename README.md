@@ -176,7 +176,7 @@ Names and structures have been generalized to avoid disclosure of proprietary im
 > ![Startup Lifecycle](Media/StartupLifecycle.png)
 
 ### Interactive Content Management Pipeline
-> Displays the modular system designed to control data-driven content. All downstream elements are responsible for their own behvaiour with no knowledge of higher level components, leading to more flexibility integration and design through plug and play components, as well as a more maintainable code base through proper seperation of concern.
+> Displays the modular system designed to control data-driven content. All downstream elements are responsible for their own behvaiour with no knowledge of higher level components, leading to more flexibility for integration and design through plug and play components, as well as a more maintainable code base through proper seperation of concern.
 > 
 > ![Content Management Pipeline](Media/ContentMangementPipeline.png)
 
