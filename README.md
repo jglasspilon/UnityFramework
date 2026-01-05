@@ -183,7 +183,7 @@ Names and structures have been generalized to avoid disclosure of proprietary im
 ---
 
 ## Released Projects using the Unity Framework
-*All animated GIFs shown are from publicly released projects and are the property of their respective owners. I claim no ownership or rights; they are displayed solely to demonstrate the results of my contributions as development lead.*
+*All animated GIFs shown below are from publicly released projects and are the property of their respective owners. I claim no ownership or rights; they are displayed solely to demonstrate the results of my contributions as development lead.*
 ### ABC US Elections Interactive Touchscreen (2024)
 > Elections Touchscreen Interactive used On-Air by ABC News for the 2024 US Elections. This is the most recent project leveraging this framework as of 2026 giving the client access to a large number of various map and grid related election graphics. All seamlessly controlled and orchestrated by this framework.
 > 
