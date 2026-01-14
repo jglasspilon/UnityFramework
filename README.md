@@ -122,7 +122,7 @@ The systems below demonstrate how these principles were applied across startup o
 
 <details>
   <summary><strong>"Event-Driven Interaction & Data Binding Layer"</strong><br>
-  A reactive data binding system that synchronizes live data, user input, and UI while keeping everything component-driven for decoupled integration and quick iteration..</summary>
+  A reactive data binding system that synchronizes live data, user input, and UI while keeping everything component-driven for decoupled integration and quick iteration.</summary>
 
   <blockquote>
 
